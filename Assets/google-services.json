@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "565324550313",
+    "project_id": "pigeon-delivery-app",
+    "storage_bucket": "pigeon-delivery-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565324550313:android:1a4442658883ecf0e759b8",
+        "android_client_info": {
+          "package_name": "com.PlatypusBox.PigeonDeliveryApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565324550313-cdo0rgnmqemhb5e3bvtt4tefukdcngqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.PlatypusBox.PigeonDeliveryApp",
+            "certificate_hash": "7c51fec4a6c0295ee3128ef72d4de6e471fb8505"
+          }
+        },
+        {
+          "client_id": "565324550313-uqu2mefqr8jnrqhc9dm2nnerjnkjra82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp_dAVRfkdJr4hw31w8Wyl6BIIabb8ds4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565324550313-uqu2mefqr8jnrqhc9dm2nnerjnkjra82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
